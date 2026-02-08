@@ -23,7 +23,7 @@ Chacun de mes projets démontre une facette différente du métier de data analy
 
 Ce 3e projet montre ma capacité à **concevoir un framework analytique de bout en bout** : de la définition du problème business jusqu'à des recommandations actionnables, en passant par la construction d'un modèle de scoring multi-couches en DAX. C'est aussi un projet passion qui illustre ce que je peux apporter quand je combine rigueur analytique et connaissance du domaine.
 
-📫 **Me contacter** : [LinkedIn](https://www.linkedin.com/in/<www.linkedin.com/in/antoine-moineaux-37a0b6189>) · [Email](mailto:<antoine.moineaux@gmail.com>)
+📫 **Me contacter** : [LinkedIn](https://www.linkedin.com/in/antoine-moineaux-37a0b6189) · [Email](mailto:antoine.moineaux@gmail.com)
 
 ---
 
