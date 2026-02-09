@@ -11,7 +11,7 @@
 
 ## 👤 À propos de ce projet
 
-Je suis **Antoine Moineaux**, en reconversion professionnelle vers la data analyse. Ce projet est le **3e de mon portfolio**, et le premier construit autour d'un sujet qui me passionne : le football.
+Je suis **Antoine Moineaux**, Data Analyst. Ce projet est le **3e de mon portfolio**, et le premier construit autour d'un sujet qui me passionne : le football.
 
 Chacun de mes projets démontre une facette différente du métier de data analyst :
 
@@ -23,7 +23,7 @@ Chacun de mes projets démontre une facette différente du métier de data analy
 
 Ce 3e projet montre ma capacité à **concevoir un framework analytique de bout en bout** : de la définition du problème business jusqu'à des recommandations actionnables, en passant par la construction d'un modèle de scoring multi-couches en DAX. C'est aussi un projet passion qui illustre ce que je peux apporter quand je combine rigueur analytique et connaissance du domaine.
 
-📫 **Me contacter** : [LinkedIn](https://www.linkedin.com/in/antoine-moineaux-37a0b6189) · [Email](mailto:antoine.moineaux@gmail.com)
+📫 **Me contacter** : [LinkedIn](https://www.linkedin.com/in/<ton-linkedin>) · [Email](mailto:<ton-email>)
 
 ---
 
@@ -134,32 +134,39 @@ Le dashboard raconte une histoire en 6 pages, du contexte global jusqu'à la rec
 ### Page 1 — Synthèse Exécutive
 Vue d'ensemble du projet, message clé et recommandation principale à destination de la direction sportive.
 
-![Page 1 — Synthèse Exécutive](dashboard/page1_synthese.png)
+<!-- 📸 SCREENSHOT : décommenter la ligne ci-dessous et supprimer le placeholder quand le fichier est ajouté -->
+<!-- ![Page 1 — Synthèse Exécutive](dashboard/page1_synthese.png) -->
+> ⚠️ *Screenshot à venir — ajouter `dashboard/page1_synthese.png`*
 
 ### Page 2 — Profils Cibles & Critères
 Définition des 3 archétypes, KPI utilisés, seuils retenus et justification des choix méthodologiques.
 
-![Page 2 — Profils Cibles](dashboard/page2_profils.png)
+<!-- ![Page 2 — Profils Cibles](dashboard/page2_profils.png) -->
+> ⚠️ *Screenshot à venir — ajouter `dashboard/page2_profils.png`*
 
 ### Page 3 — Opportunités Sportives
 Classement "fit sportif" brut avant toute considération de marché. Visualisation des centiles par joueur et par archétype.
 
-![Page 3 — Opportunités Sportives](dashboard/page3_opportunites.png)
+<!-- ![Page 3 — Opportunités Sportives](dashboard/page3_opportunites.png) -->
+> ⚠️ *Screenshot à venir — ajouter `dashboard/page3_opportunites.png`*
 
 ### Page 4 — Shortlist Réaliste (Opportunité × Faisabilité)
 Top 3 par archétype après croisement des scores. Règles de lecture et décisions Plan A / B / C.
 
-![Page 4 — Shortlist Réaliste](dashboard/page4_shortlist.png)
+<!-- ![Page 4 — Shortlist Réaliste](dashboard/page4_shortlist.png) -->
+> ⚠️ *Screenshot à venir — ajouter `dashboard/page4_shortlist.png`*
 
 ### Page 5 — Validation Marché & Type de Deal
 Ajout des signaux marché (valeur, statut, contrat, vendeur). 3 cartes "héros" pour les Plan A + table Market Check complète avec tooltips.
 
-![Page 5 — Validation Marché](dashboard/page5_market.png)
+<!-- ![Page 5 — Validation Marché](dashboard/page5_market.png) -->
+> ⚠️ *Screenshot à venir — ajouter `dashboard/page5_market.png`*
 
 ### Page 6 — Shortlist Finale & Recommandations
 Synthèse finalisée : qui prendre, comment (transfert/prêt), et pourquoi. Plan d'action priorisé.
 
-![Page 6 — Shortlist Finale](dashboard/page6_finale.png)
+<!-- ![Page 6 — Shortlist Finale](dashboard/page6_finale.png) -->
+> ⚠️ *Screenshot à venir — ajouter `dashboard/page6_finale.png`*
 
 ---
 
